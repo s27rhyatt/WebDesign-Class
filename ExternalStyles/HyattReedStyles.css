@@ -1,0 +1,55 @@
+h1 {
+    color: rgb(61, 61, 61)173, 173;
+    background-color: rgb(129, 127, 128);
+}
+
+p {
+    color: #000000;
+    font-family: Verdana;
+    font-size: 20px;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-width: 4px;
+}
+
+ul {
+    background: rgb(158, 148, 157);
+    padding: 20px;
+}
+
+ul li {
+    background: #918c91;
+    margin: 5px;
+    list-style-type: square;
+}
+
+/* unvisted link */
+a:link {
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+/* visted link */
+a:visited {
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+/* mouse over link */
+a:hover {
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(201, 166, 183);
+}
+
+/* selectd link */
+a:active {
+    font-family: verdana;
+    font-size: 20px;
+    color: blue;
+}
